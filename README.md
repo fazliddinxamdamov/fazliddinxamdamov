@@ -10,14 +10,6 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [fazliddinxamdamov102@gmail.com](fazliddinxadamov102@gmail.com).
 
-<h3 align="center">Reach me</h3>
-
-<p align="center">
-  <a  href="https://t.me/faz1iddin" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-</p>
-
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
@@ -42,4 +34,14 @@
     </a>
   </div>
 </div>
+
+<br/>
+
+<h3 align="center">Reach me</h3>
+
+<p align="center">
+  <a  href="https://t.me/faz1iddin" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+  </a>
+</p>
 
