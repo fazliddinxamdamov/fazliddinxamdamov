@@ -1,5 +1,5 @@
-<h3 title="hehehe"> Hey 👋, I'm Fazliddin!</h3>
-A **Back-End Developer** 🚀 from Andijan, Uzbekistan.
+<h1 align="center">Hi, I'm Fazliddin Xamdamov<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A passionate backend developer Uzbekistan.</h3>
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
