@@ -6,7 +6,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a PDP Academy.
-- 🌱 I’m currently exploring Java with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 🌱 I’m currently exploring Java with a big interest in Web Developing and Microservices. 
+- 🤔 My interests are DevOps, web processing and developing some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [fazliddinxamdamov102@gmail.com](fazliddinxadamov102@gmail.com).
