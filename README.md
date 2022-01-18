@@ -1,6 +1,6 @@
 <h1 align="center">I'm <a href="https://github.com/fazliddinxamdamov">Fazliddin Xamdamov<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h3 font-size="20" align="center">A passionate backend developer from Uzbekistan.</h3>
-<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<img align="right" style="width:16rem; height:auto" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif"/>
 
 **About Me!**
 
