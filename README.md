@@ -9,6 +9,7 @@
 - 🤔 My interests are DevOps, web processing and developing some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [fazliddinxamdamov102@gmail.com](fazliddinxadamov102@gmail.com).
+- gitlab => https://gitlab.com/fazliddinxamdamov102
 
 <br/>
 <h3 align="center">Connect with me</h3>
