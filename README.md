@@ -27,11 +27,7 @@
     </a>
   </div>
   
-  <div>
-  <a href="https://www.facebook.com/fazliddin.xamdamov.96" target="_blank">
-      <img src="https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
-    </a> 
-  </div>
+ 
   
   <div>
     <a href="https://www.hackerrank.com/fxamdamov3" target="_blank">
@@ -41,6 +37,12 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
   </div>
+   <div>
+  <a href="https://www.facebook.com/fazliddin.xamdamov.96" target="_blank">
+      <img src="https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
+    </a> 
+  </div>
+  
 </div>
 
 <br/>
