@@ -22,6 +22,11 @@
     <a href="https://fazliddinxamdamov.medium.com/" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
+    
+    <a href="https://www.facebook.com/fazliddin.xamdamov.96" target="_blank">
+      <img src="https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
+    </a>
+    
     <a  href="https://www.linkedin.com/in/fazliddin-xamdamov" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
