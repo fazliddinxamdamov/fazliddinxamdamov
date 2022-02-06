@@ -11,7 +11,6 @@
 - 📫 Email me at [fazliddinxamdamov102@gmail.com](fazliddinxadamov102@gmail.com).
 - gitlab => https://gitlab.com/fazliddinxamdamov102
   
-
 <br/>
 <h3 align="center">Connect with me</h3>
 
@@ -24,9 +23,7 @@
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
-  
  
-  
   <div>
     <a href="https://www.hackerrank.com/fxamdamov3" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
@@ -52,10 +49,3 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
 </p>
-  
-  @media screen and (min-width: 0) and (max-width: 768px){
-  .image{
-      display flex;
-  }
-    }
-
