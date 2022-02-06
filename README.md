@@ -1,8 +1,9 @@
 <h1 align="center">I'm <a href="https://github.com/fazliddinxamdamov">Fazliddin Xamdamov<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h3 font-size="20" align="center">Back-End Developer From Uzbekistan.</h3>
-  <div>
-<img align="right" style="width:16rem; height:auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
+  <div class = ".image">
+       <img align="right" style="width:16rem; height:auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
   </div>
+  <br>
 
 **About Me!**
 
@@ -54,4 +55,10 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
 </p>
+  
+  @media screen and (min-width: 0) and (max-width: 768px){
+  .image{
+      display flex;
+  }
+    }
 
