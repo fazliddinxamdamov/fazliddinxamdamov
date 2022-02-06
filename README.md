@@ -1,16 +1,18 @@
 <h1 align="center">I'm <a href="https://github.com/fazliddinxamdamov">Fazliddin Xamdamov<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h3 font-size="20" align="center">Back-End Developer From Uzbekistan.</h3>
+  <div>
 <img align="right" style="width:16rem; height:auto" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
+  </div>
 
 **About Me!**
-<div>
+
 - 👨🏽‍💻 I’m currently working as a PDP Academy.
 - 🌱 I’m currently exploring Java with a big interest in Web Developing and Microservices. 
 - 🤔 My interests are DevOps, web processing and developing some useful and cool stuff xD
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [fazliddinxamdamov102@gmail.com](fazliddinxadamov102@gmail.com).
 - gitlab => https://gitlab.com/fazliddinxamdamov102
-  </div>
+  
 
 <br/>
 <h3 align="center">Connect with me</h3>
