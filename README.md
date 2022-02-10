@@ -11,8 +11,7 @@
 - 📫 Email me at [fazliddinxamdamov102@gmail.com](fazliddinxadamov102@gmail.com).
 - gitlab => https://gitlab.com/fazliddinxamdamov102
   <br>
-  
-  - 🌐 My personal website: <a href = "https://www.fazliddin.com"> fazliddin.com </a>
+- 🌐 My personal website: <a href = "https://www.fazliddin.com"> fazliddin.com </a>
   
 <br/>
 <h3 align="center">Connect with me</h3>
