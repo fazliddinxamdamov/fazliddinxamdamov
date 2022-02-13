@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://www.fazliddin.com">Fazliddin Xamdamov<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a  target={"_blank"}  href="https://www.fazliddin.com">Fazliddin Xamdamov<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h3 font-size="20" align="center">Back-End Developer From Uzbekistan.</h3>
 
   <br>
