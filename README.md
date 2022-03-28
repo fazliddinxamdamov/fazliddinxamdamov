@@ -6,7 +6,6 @@
 
 - 👨🏽‍💻 I’m currently working as Java Backend Developer.
 - 🌱 I’m currently exploring Java with a big interest in Web Developing and Microservices. 
-- 🤔 My interests are DevOps, web processing and developing some useful and cool functions
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [fazliddinxamdamov102@gmail.com](fazliddinxadamov102@gmail.com).
 - gitlab => https://gitlab.com/fazliddinxamdamov102
