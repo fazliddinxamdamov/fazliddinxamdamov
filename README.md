@@ -1,8 +1,6 @@
-<h1 align="center">I'm <a  target={"_blank"}  href="https://www.fazliddin.com">Fazliddin Xamdamov<a></h1>
-<h3 font-size="20" align="center">Back-End Developer From Uzbekistan.</h3>
+<h3 font-size="20" align="center">Java Developer</h3>
 
-  <br>
- **About Me!** 
+  <br> 
 
 - 👨🏽‍💻 I’m currently working as Java Backend Developer.
 - 🌱 I’m currently exploring Java with a big interest in Web Developing and Microservices. 
