@@ -2,13 +2,12 @@
 
   <br> 
 
-- 👨🏽‍💻 I’m currently working as Java Backend Developer.
-- 🌱 I’m currently exploring Java with a big interest in Web Developing and Microservices. 
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [fazliddinxamdamov102@gmail.com](fazliddinxadamov102@gmail.com).
-- gitlab => https://gitlab.com/fazliddinxamdamov102
-  <br>
-- 🌐 My personal website: <a href = "https://www.fazliddin.com"> fazliddin.com </a>
+- I’m currently working as Java Backend Developer.
+- I’m currently exploring Java with a big interest in Web Developing and Microservices. 
+- Ask me about anything, I love to answer!
+- Email me at [fazliddinxamdamov102@gmail.com](fazliddinxadamov102@gmail.com).
+- Gitlab: https://gitlab.com/fazliddinxamdamov102
+- More: <a href = "https://www.fazliddin.com"> fazliddin.com </a>
   
 <br/>
 <h3 align="center">Connect with me</h3>
