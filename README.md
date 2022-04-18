@@ -22,10 +22,12 @@
     <a href="https://www.facebook.com/fazliddin.xamdamov.96" target="_blank">
       <img src="https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
     </a>
-    
-    <a  href="https://t.me/faz1iddin" target="_blank">
+    <p align="center">
+  <a  href="https://t.me/faz1iddin" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
+</p>
+    
   </div>
  
 <!--   <div>
