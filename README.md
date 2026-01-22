@@ -5,7 +5,7 @@
 - I’m currently exploring Java and other languages with a big interest in Web Developing, Back-End sevices and Microservices. 
 - Ask me about anything, I love to answer!
 <!-- - Gitlab: https://gitlab.com/fazliddinxamdamov102 -->
-- More: <a href = "https://www.fazliddin.com"> fazliddin.com </a>
+- More: <a href = "https://www.fazliddin.net"> fazliddin.com </a>
   
 <br/>
 
